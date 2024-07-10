@@ -1,4 +1,5 @@
 /home/andre/projetos/java-api/src/main/java/com/aphtec/api/ApiApplication.java
 /home/andre/projetos/java-api/src/main/java/com/aphtec/api/ServletInitializer.java
+/home/andre/projetos/java-api/src/main/java/com/aphtec/api/controllers/CoffeControllers.java
 /home/andre/projetos/java-api/src/main/java/com/aphtec/api/models/Coffee.java
 /home/andre/projetos/java-api/src/main/java/com/aphtec/api/repositores/CoffeeRepository.java

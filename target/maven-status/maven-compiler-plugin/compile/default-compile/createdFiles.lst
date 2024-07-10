@@ -1,0 +1,5 @@
+com/aphtec/api/ApiApplication.class
+com/aphtec/api/controllers/CoffeControllers.class
+com/aphtec/api/repositores/CoffeeRepository.class
+com/aphtec/api/models/Coffee.class
+com/aphtec/api/ServletInitializer.class
